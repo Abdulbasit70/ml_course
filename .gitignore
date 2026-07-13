@@ -3,4 +3,4 @@ venv/
 .env
 __pycache__/
 *.pkl
-.DS_Store
+.DS_StoreLloyds-Banking-customer-churn-analysis- 
